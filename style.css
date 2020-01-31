@@ -8,6 +8,6 @@ button{
     color: #fff;
     padding: 5px 20px;
     text-transform: uppercase;
-    outline: none;
+    /*outline: none;*/
 }
 
